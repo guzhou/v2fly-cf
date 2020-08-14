@@ -51,7 +51,7 @@ jobs:
         cat > manifest-ibm.yml << EOF
         ---
         applications:
-        - name: duoer
+        - name: duoercn
           memory: 256M
           disk_quota: 1024M
           random-route: true
